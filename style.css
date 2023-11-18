@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mmknavbar{
+    font-family: Arial, sans-serif;
+    font-weight: 500px;
+    font-style: normal;
+    font-size: 14px;
+}
+.btn:hover{
+    border-radius: 5px;
+
+}
+ul li:hover{
+   text-decoration: underline white;
+
+}
+a.navbar-brand:hover{
+    color: black;
+}
+li.nav-item{
+    padding-right: 40px;
+}
+#icon:hover{
+    background-color: #1FB6FC;
+
+}
+#card:hover{
+    background-color: #1FB6FC;
+}
+#am:hover{
+    background-color: #1FB6FC;
+    color: white;
+    border-radius: 5px 5px 5px 5px ;
+}
+#kl:hover:{
+    background-color:white ;
+    border-radius: 100px;
+}
+#ml:hover{
+    color: black;
+    background-color:lightblue;
+}
+li a{
+    text-decoration: none;
+    
+}
+li a:hover {
+color: #1FB6FC;
+}
